@@ -2,7 +2,7 @@ turbo::cfg! {r#"
     name = "DinoRunner"
     version = "1.0.0"
     author = "Turbo"
-    description = "DinoRunner!"
+    description = "DinoRunner!!!!"
     [settings]
     resolution = [256, 144]
 "#}
